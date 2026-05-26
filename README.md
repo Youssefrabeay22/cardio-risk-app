@@ -27,3 +27,9 @@ cardio-risk-app/
    ```bash
    git clone https://github.com/your-username/cardio-risk-app.git
    cd cardio-risk-app
+pip install -r requirements.txt
+
+
+streamlit run app.py
+Deployment
+ Deployment This app is deployed on Streamlit Cloud: Live App Link:https://youssefrabeay22-cardio-risk-app-app-rpvkse.streamlit.app/
