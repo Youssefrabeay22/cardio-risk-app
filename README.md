@@ -1,4 +1,4 @@
-# 🩺 Cardiovascular Health Report App
+#  Cardiovascular Health Report App
 
 A Streamlit dashboard that generates a personalized cardiovascular health report using a trained Gradient Boosting model.
 
