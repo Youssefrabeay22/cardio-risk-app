@@ -11,7 +11,6 @@ import os
 import joblib
 import numpy as np
 import pandas as pd
-!pip install streamlit
 import streamlit as st
 
 st.set_page_config(layout='wide')
