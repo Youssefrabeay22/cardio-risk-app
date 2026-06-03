@@ -32,4 +32,4 @@ pip install -r requirements.txt
 
 streamlit run app.py
 Deployment
- Deployment This app is deployed on Streamlit Cloud: Live App Link:https://youssefrabeay22-cardio-risk-app-app-rpvkse.streamlit.app/
+ Deployment This app is deployed on Streamlit Cloud: Live App Link:https://cardio-risk-app-mgrqw3pqjc5wxsxgswxduv.streamlit.app/#prediction-result
