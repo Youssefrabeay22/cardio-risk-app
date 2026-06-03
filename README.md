@@ -33,3 +33,8 @@ pip install -r requirements.txt
 streamlit run app.py
 Deployment
  Deployment This app is deployed on Streamlit Cloud: Live App Link:https://cardio-risk-app-mgrqw3pqjc5wxsxgswxduv.streamlit.app/#prediction-result
+
+
+ ## 🎥 Demo Video
+[Watch the walkthrough](https://drive.google.com/file/d/1d81hdmpD4T0G6nO6ULQabTVFAmTT1B7A/view?usp=sharing)
+
