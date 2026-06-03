@@ -1,40 +1,79 @@
-#  Cardiovascular Health Report App
+Here’s a polished **README.md** draft for your GitHub repo, Youssef. It’s structured, professional, and includes your demo video link:
+
+---
+
+```markdown
+# 🩺 Cardiovascular Health Report App
 
 A Streamlit dashboard that generates a personalized cardiovascular health report using a trained Gradient Boosting model.
 
 ---
 
-##  Features
+## 🚀 Features
 - Sidebar input form for patient details.
 - Dashboard layout with:
-  -  Input summary table
-  - Risk probability gauge
-  -  Personalized recommendations
+  - 📋 Input summary table
+  - 📊 Risk probability gauge
+  - 💡 Personalized recommendations
 - Gradient Boosting model (`gradient_boosting_model.pkl`) for prediction.
 
 ---
 
-## Project Structure
+## 📂 Project Structure
+```
 cardio-risk-app/
 ├── app.py                   # Streamlit app script
 ├── requirements.txt         # Dependencies
-└── gradient_boosting_model.pkl  # Trained model file
+├── gradient_boosting_model.pkl  # Trained model file
+└── scaler.pkl               # Preprocessing scaler (if used)
+```
 
 ---
 
-##  Installation (Local Run)
+## ⚙️ Installation (Local Run)
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/cardio-risk-app.git
    cd cardio-risk-app
-pip install -r requirements.txt
+   ```
+2. Install dependencies:
+   ```bash
+   pip install -r requirements.txt
+   ```
+3. Run the app:
+   ```bash
+   streamlit run app.py
+   ```
 
+---
 
-streamlit run app.py
-Deployment
- Deployment This app is deployed on Streamlit Cloud: Live App Link:https://cardio-risk-app-mgrqw3pqjc5wxsxgswxduv.streamlit.app/#prediction-result
+## 🌐 Deployment
+This app is deployed on **Streamlit Cloud**:  
+👉 [Live App Link](https://cardio-risk-app-mgrqw3pqjc5wxsxgswxduv.streamlit.app/#prediction-result)
 
+---
 
- ## 🎥 Demo Video
-[Watch the walkthrough](https://drive.google.com/file/d/1d81hdmpD4T0G6nO6ULQabTVFAmTT1B7A/view?usp=sharing)
+## 🎥 Demo Video
+Watch the walkthrough here:  
+[Demo Video on Google Drive](https://drive.google.com/file/d/1d81hdmpD4T0G6nO6ULQabTVFAmTT1B7A/view?usp=sharing)
 
+---
+
+## 📖 Usage
+1. Enter patient details in the sidebar.  
+2. Click **Generate Report**.  
+3. View:
+   - Input summary  
+   - Risk probability gauge  
+   - Personalized recommendations  
+
+---
+
+## 👨‍💻 Author
+Developed by **Youssef Rabeay Younes**  
+Bioinformatics Coursework – 2026
+```
+
+---
+
+✅ This README is presentation‑ready: it highlights features, structure, installation, deployment, usage, and your demo video.  
